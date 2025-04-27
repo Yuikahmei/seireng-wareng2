@@ -1,4 +1,4 @@
-font-face {
+@font-face {
     font-family:'epaomayek' ;
     src: url('EPAOMAYEK.TTF')format('truetype');
 
@@ -70,6 +70,8 @@ font-face {
         padding: 20px;
         margin-bottom: 20px;
         border: 1px solid #ccc;
+          font-family:'epaomayek' ;
+    src: url('EPAOMAYEK.TTF')format('truetype');
       }
       
       h1, h2 {
