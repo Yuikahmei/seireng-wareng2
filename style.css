@@ -8,6 +8,8 @@
     .navbar {
         background-color: #ebaeae;
         overflow: hidden;
+        font-family:'epaomayek' ;
+        src: url('EPAOMAYEK.TTF')format('truetype');
       }
       
       .navbar a {
@@ -70,8 +72,12 @@
         padding: 20px;
         margin-bottom: 20px;
         border: 1px solid #ccc;
-          font-family:'epaomayek' ;
-    src: url('EPAOMAYEK.TTF')format('truetype');
+        font-family:'epaomayek' ;
+        src: url('EPAOMAYEK.TTF')format('truetype');
+      }
+      .footer{
+        font-family:'epaomayek' ;
+        src: url('EPAOMAYEK.TTF')format('truetype');
       }
       
       h1, h2 {
